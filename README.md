@@ -10,3 +10,5 @@ In other words, from my experience I'm good at:
 - 📢 Presenting at meetups and conferences
 
 I'm working now as a maintainer 🚧 and community guardian 🦸🏻‍♂️ at [AsyncAPI Initiative](https://www.asyncapi.com/). We are a great community :open_hands: shaping the future of how you work with #eventdrivenarchitecture, no matter if it is Kafka or Websockets. [Join and talk to us](https://www.asyncapi.com/slack-invite/).
+
+When I have time, I write on [dev.to](https://dev.to/derberg) and [AsyncAPI Blog](https://www.asyncapi.com/blog/). You can also find me on [Twitter](https://twitter.com/derberq).
