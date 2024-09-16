@@ -15,4 +15,4 @@ In other words, from my experience I'm good at:
 - 🎨 Designing and driving development of technical solutions
 - 📢 Presenting at meetups and conferences
 
-When I have time, I write on my blog [brainfart.dev]([https://dev.to/derberg](https://www.brainfart.dev/)) and [AsyncAPI Blog](https://www.asyncapi.com/blog/). You can sponsor me through [GitHub Sponsors](https://github.com/sponsors/derberg), or contact directly for other hiring options.
+When I have time, I write on my blog [brainfart.dev]([https://dev.to/derberg](https://www.brainfart.dev/)) and [AsyncAPI Blog](https://www.asyncapi.com/blog?authors=Lukasz+Gornicki). You can sponsor me through [GitHub Sponsors](https://github.com/sponsors/derberg), or contact directly for other hiring options.
