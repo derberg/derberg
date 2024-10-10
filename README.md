@@ -1,3 +1,6 @@
+> [!TIP]
+> tl;dr [I'm available for hire](https://www.brainfart.dev/blog/whats-next)
+
 My first interaction with open-source happened back in 2014, and I was immediately captivated by the concept. The idea of people collaborating openly, across borders, with a shared goal of creating something better fascinated me. At the time, I didn’t contribute much code, largely due to imposter syndrome, which was in full swing. Yet, even then, I sensed that contributing to open-source wasn’t just about writing code. People can give back in so many other ways. 
 
 So, I found my own path, helping by securing funding for one of the projects and [promoting tools at conferences](https://www.youtube.com/watch?v=F-1goNbdBkc&t=1652s).
